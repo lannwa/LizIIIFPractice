@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://lannwa.github.io/LizIIIFPractice/annotations/annotations.json" ],
+  "@id" : "https://lannwa.github.io/LizIIIFPractice/annotations/collection.json",
+  "label" : "All annotations loaded in lannwa/LizIIIFPractice project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
