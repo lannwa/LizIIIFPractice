@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 44,
+    "height" : 38
+  }, {
+    "width" : 88,
+    "height" : 75
+  }, {
+    "width" : 175,
+    "height" : 150
+  }, {
+    "width" : 350,
+    "height" : 300
+  }, {
+    "width" : 700,
+    "height" : 600
+  }, {
+    "width" : 1400,
+    "height" : 1200
+  } ],
+  "profile" : "level0",
+  "width" : 1400,
+  "id" : "https://lannwa.github.io/LizIIIFPractice/images/Screenshot",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1200
+}
